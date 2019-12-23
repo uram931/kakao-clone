@@ -1,0 +1,6 @@
+<name attribute="value">content</name>
+<human gender="male">Human</human>
+<dog breed="german-shepard">Dog</dog>
+<title>This is the title of the document</title>
+<p>이것은 문단이다</p>
+<a href="https://google.com">go to google</a>
